@@ -8,3 +8,4 @@ require_relative '../lib/cash_register'
 RSpec.configure do |config|
   
 end
+
